@@ -1,0 +1,98 @@
+body {
+  /* background-image:url('https://cdn.glitch.com/5963108e-c0ce-43d8-9c7e-e948f64286b3%2Fwallpaperflare.com_wallpaper.jpg?v=1621759689415') ; */
+  background-image: linear-gradient(180deg, #373046, rgb(30, 25, 48));
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+.navbar {
+  background: linear-gradient(180deg, #373046, rgb(30, 25, 48));
+}
+.container .text-center{
+    margin-top: 50px;
+}
+.card {
+  background: transparent;
+  border: 1px solid black;
+  border-radius: 15px;
+  box-shadow: 5px 6px 6px rgb(33, 32, 32);
+}
+.form-group {
+  color: white;
+}
+.btn {
+  padding: 1px 10px;
+}
+.btn-outline-success {
+  background: transparent;
+  border-color: white;
+  color: white;
+}
+.btn-outline-success:hover {
+  background-color: transparent;
+  color: aqua;
+  border-color: aqua;
+}
+table,
+th,
+td {
+  border: 2px solid white;
+  color: white;
+  font-weight: 500;
+}
+.ts {
+  color: white;
+  font-weight: 300;
+}
+.typing,
+li {
+  color: white;
+  font-weight: 500;
+}
+a {
+  color: white;
+  font-weight: 500;
+}
+.box {
+  font-weight: 500;
+}
+.form-control {
+  background: transparent;
+}
+.form-control:focus {
+  background: transparent;
+  color: white;
+}
+.dropdown-menu {
+  background: transparent;
+}
+.dropdown-item {
+  color: white;
+}
+.dropdown-item:hover {
+  color: aqua;
+  background-color: rgb(97, 99, 99);
+}
+.second h2 {
+  margin-top: 50px;
+}
+.footer {
+  position: relative;
+  left: 0;
+  top: 50px;
+  bottom: 0;
+  width: 100%;
+  height: auto;
+  background: linear-gradient(180deg, #292435, rgb(17, 14, 27));
+  color: white;
+  text-align: center;
+}
+.footer p {
+  padding-top: 10px;
+  font-weight: bold;
+  font-size: 18px;
+  letter-spacing: 1px;
+}
+.items h2{
+    margin-top: 500px;
+}
