@@ -87,11 +87,8 @@ a {
   color: white;
   text-align: center;
 }
-.footer p {
-  padding-top: 10px;
-  font-weight: bold;
-  font-size: 18px;
-  letter-spacing: 1px;
+.footer img{
+  padding: 10px;
 }
 .items h2{
     margin-top: 500px;
